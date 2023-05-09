@@ -1,0 +1,90 @@
+
+/* @import url('https://fonts.google.com/specimen/Outfit');
+
+
+
+body {
+  font-family: 'Outfit', sans-serif;
+}
+
+
+
+body {
+    background-color: #D5E1EF;
+    Font-size : 15px;
+}
+
+.container {
+    border-radius: 3rem;
+    background-color: white;
+    
+    width: 550px;
+    margin: 0 auto;
+    margin-top: 10rem;
+    display:block;
+    text-align: center;
+}
+
+img {
+    border-radius: 4rem;
+    width: 500px;
+    padding: 2rem 1rem;
+}
+
+h2 {
+    margin-top: -1rem;
+    font-weight: 700;
+    color:  hsl(218, 44%, 22%);
+}
+
+h4 {
+    padding-bottom: 2rem;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+} */
+
+@media (min-width: 375px) {
+    @import url('https://fonts.google.com/specimen/Outfit');
+
+
+
+body {
+  font-family: 'Outfit', sans-serif;
+}
+
+
+
+body {
+    background-color: #D5E1EF;
+    Font-size : 15px;
+}
+
+.container {
+    border-radius: 3rem;
+    background-color: white;
+    
+    width: 550px;
+    margin: 0 auto;
+    margin-top: 10rem;
+    display:block;
+    text-align: center;
+}
+
+img {
+    border-radius: 4rem;
+    width: 500px;
+    padding: 2rem 1rem;
+}
+
+h2 {
+    margin-top: -1rem;
+    font-weight: 700;
+    color:  hsl(218, 44%, 22%);
+}
+
+h4 {
+    padding-bottom: 2rem;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+}
